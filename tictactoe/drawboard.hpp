@@ -3,4 +3,4 @@
 
 using namespace std;
 
-void drawBoard();
+void drawBoard(int gameMatrix[3][3]);
